@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'qfy';
+    src: url(../font/qfy.ttf);
+}
 img.tx{
     border-radius: 300px;
     position: absolute;
@@ -5,6 +9,9 @@ img.tx{
     margin-left: 550px;
     margin-top: 60px;
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.65);
+}
+body{
+    font-family: 'qfy';
 }
 .cfx{
     position: absolute;
@@ -83,23 +90,13 @@ h1.d{
     background: linear-gradient(257.51deg, #06B757 0%, #01D66F 100%);
     border-radius: 30px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    font-size: 10px;
+    font-size: 20px;
 }
 h1.qq{
     position: absolute;
-    top: 10px;
-    left: 10px;
-
-}
-h1.email{
-    position: absolute;
     top: 40px;
     left: 10px;
-}
-h1.blog{
-    position: absolute;
-    top: 70px;
-    left: 10px;
+
 }
 .goto{
     position: absolute;
