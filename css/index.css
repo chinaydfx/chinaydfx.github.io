@@ -1,0 +1,122 @@
+img.tx{
+    border-radius: 300px;
+    position: absolute;
+    height: 150px;
+    margin-left: 550px;
+    margin-top: 60px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.65);
+}
+.cfx{
+    position: absolute;
+    top: 260px;
+    left: 350px;
+    width: 580px;
+    height: 50px;
+    background: linear-gradient(269.87deg, #FFBC11 0%, #E09400 100%);
+    border-radius: 300px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #000;
+}
+h2.hitokoto{
+    position: absolute;
+    color: #fff;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+}
+.welcome{
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    border-radius: 30px;
+    color: #fff;
+    background: linear-gradient(950.250deg, #2C82D1 0%, #67BFFF 100%);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-top: 400px;
+    margin-left: 900px;
+}
+h1.welcome_1{
+    position: absolute;
+    top: 50px;
+    left: 12px;
+}
+.grjs{
+    color: #fff;
+    position: absolute;
+    top: 410px;
+    left: 120px;
+    height: 450px;
+    width: 720px;
+    background: linear-gradient(257.51deg, #7E2CD1 0%, #7C67FF 100%);
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+h1.a{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+h1.b{
+    position: absolute;
+    top: 80px;
+    left: 40px;
+}
+h1.c{
+    position: absolute;
+    top: 140px;
+    left: 40px;
+}
+h1.d{
+    position: absolute;
+    top: 200px;
+    left: 40px;
+}
+
+.chat{
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    color: #fff;
+    margin-top: 650px;
+    margin-left: 900px;
+    background: linear-gradient(257.51deg, #06B757 0%, #01D66F 100%);
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 10px;
+}
+h1.qq{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+h1.email{
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
+h1.blog{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+}
+.goto{
+    position: absolute;
+    font-size: 20px;
+    top: 40px;
+    right: 40px;
+    width: 120px;
+    height: 50px;
+    color: #fff;
+    background: linear-gradient(269.87deg, #FF1158 0%, #CB0000 100%);
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+a{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: #fff;
+    text-decoration: none;
+}
