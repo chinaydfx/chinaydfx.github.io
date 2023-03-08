@@ -2,6 +2,10 @@
     font-family: 'qfy';
     src: url(../font/qfy.ttf);
 }
+body{
+    font-family: 'qfy';
+    background-image: url('https://api.jamyido.top/api/pic/random.php');
+}
 img.tx{
     border-radius: 300px;
     position: absolute;
@@ -10,9 +14,7 @@ img.tx{
     margin-top: 60px;
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.65);
 }
-body{
-    font-family: 'qfy';
-}
+
 .cfx{
     position: absolute;
     top: 260px;
@@ -109,6 +111,12 @@ h1.qq{
     background: linear-gradient(269.87deg, #FF1158 0%, #CB0000 100%);
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
     border-radius: 19px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.goto:hover{
+    background: linear-gradient(257.51deg, #06B757 0%, #01D66F 100%);
+    color: white;
 }
 a{
     position: absolute;
