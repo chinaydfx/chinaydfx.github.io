@@ -8,7 +8,7 @@
 }
 body{
     font-family: '2';
-    background-image: url('https://api.jamyido.top/api/pic/random.php');
+    background-image: url('../img/bg.png');
 }
 img.tx{
     border-radius: 300px;
